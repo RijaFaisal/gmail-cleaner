@@ -1,0 +1,10 @@
+credentials.json
+token.json
+emails_cache.json
+decisions.json
+*.tmp
+venv/
+.venv/
+__pycache__/
+sent_cache.json
+sent_decisions.json
